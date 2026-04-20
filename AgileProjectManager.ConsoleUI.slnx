@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="AgileProjectManager.ConsoleUI/AgileProjectManager.ConsoleUI.csproj" />
+  <Project Path="AgileProjectManager.Controller/AgileProjectManager.Controller.csproj" />
+  <Project Path="AgileProjectManager.Model/AgileProjectManager.Model.csproj" />
+</Solution>
